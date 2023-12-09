@@ -42,3 +42,14 @@ Get the verses back as JSON:
   }
 ]
 ```
+
+Books can be referenced by any of the `display` or `alternates` values (case insensitive) listed in [book-data.json](https://github.com/s-russell/kjv-js/blob/main/data/book-data.json). More examples that should work:
+
+- `getVerse("Genesis 1:1")`
+- `getVerse("leviticus 2:4")`
+- `getVerse("psa 2:1")`
+- `getVerse("II Peter 1:1")`
+- `getVerses("Genesis 1:1-5")`
+- `getVerses("lev 2:10-15")`
+- `getVerses("i cor 1:1-2:7")`
+- `getVerses("exodus 1:1-2:3")`
