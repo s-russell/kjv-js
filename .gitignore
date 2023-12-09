@@ -1,0 +1,6 @@
+.venv
+node_modules
+book-display.json
+kjv.txt
+ver_counts.json
+workbench.ipynb

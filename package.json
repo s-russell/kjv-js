@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "kjv",
+  "scripts": {
+    "test": "jasmine --config=jasmine.json"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}

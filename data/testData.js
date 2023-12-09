@@ -1,0 +1,58 @@
+export default [
+  {
+    ref: "Genesis 1:1",
+    book: "gen",
+    chapter: 1,
+    verse: 1,
+    text: "In the beginning God created the heaven and the earth.",
+  },
+  {
+    ref: "exo 1:1",
+    book: "exo",
+    chapter: 1,
+    verse: 1,
+    text: "Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.",
+  },
+  {
+    ref: "i cor 1:1",
+    book: "co1",
+    chapter: 1,
+    verse: 1,
+    text: "Paul called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,",
+  },
+  {
+    ref: "2 cor 5:1",
+    book: "co2",
+    chapter: 5,
+    verse: 1,
+    text: "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.",
+  },
+  {
+    ref: "exodus 1:1",
+    book: "exo",
+    chapter: 1,
+    verse: 1,
+    text: "Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.",
+  },
+  {
+    ref: "leviticus1:1",
+    book: "lev",
+    chapter: 1,
+    verse: 1,
+    text: "And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,",
+  },
+  {
+    ref: "joh1:1",
+    book: "joh",
+    chapter: 1,
+    verse: 1,
+    text: "In the beginning was the Word, and the Word was with God, and the Word was God.",
+  },
+  {
+    ref: "psalms 119:110",
+    book: "psa",
+    chapter: 119,
+    verse: 110,
+    text: "The wicked have laid a snare for me: yet I erred not from thy precepts.",
+  },
+];
